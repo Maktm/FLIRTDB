@@ -18,7 +18,7 @@ For more information look inside the readme inside the FLAIR tools directory.
 Considering the fact that there are countless libraries out there (both open/closed source) each with their endless builds/versions, it's obvious that the Hex-Rays team cannot always provide us with the signature files we need. Due to this, I've created this repository in hopes of it serving as a hub for reverse engineers to grab signature files from (and hopefully upload too).
 
 ## How can I contribute?
-Anyone can contribute to this repository by generating a signature file for a specific version of a library (or several!) and following the rules under [ethics](##Ethics).
+Anyone can contribute to this repository by generating a signature file for a specific version of a library (or several!) and following the rules under [ethics](#ethics).
 
 ## Ethics
 Due to the fact that there are various libraries/versions to manage, it's a requirement that we sort all the info in the easiest possible way so that people can find what they're looking for with ease. Simply follow the rules below and hopefully everything will run smoothly:
