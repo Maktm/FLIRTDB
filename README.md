@@ -26,7 +26,7 @@ Due to the fact that there are various libraries/versions to manage, it's a requ
 1. Make sure to ignore conflicting names when using sigmake
 2. Always submit the signature file, the EXC file (if there are conflicting signatures), and also that pattern file
 3. Organize your submission in the standard folder structure (library/os)
-5. Add a descriptive name to your signature files using the -n option in sigmake
+5. Add a descriptive name to your signature files using the -n option in sigmake (optional)
 6. Before committing, make sure that signatures for your library and version hasn't been submitted
 7. _Do not_ submit the library file itself due to copyright/redistribution issues
 8. Contribute! This will only work if we work together
