@@ -29,6 +29,7 @@ Due to the fact that there are various libraries/versions to manage, it's a requ
 5. Add a descriptive name to your signature files using the -n option in sigmake
 6. Before committing, make sure that signatures for your library and version hasn't been submitted
 7. _Do not_ submit the library file itself due to copyright/redistribution issues
+8. Contribute! This will only work if we work together
 
 ## Author
 Michael "Maktm" A.
