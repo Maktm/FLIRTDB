@@ -1,4 +1,4 @@
-# Fast Library Identification and Recognition Technology (FLIRT) Signature File Database
+# FLIRT Signature File Database
 
 ## What is FLIRT?
 Fast Library Identification and Recognition Technology, also known as FLIRT, is IDA's internal symbols identifier that searches through disassembled binaries in order to locate, rename, and highlight known library subroutines. FLIRT elimates the need to analyze functions that could be understood simply by reading documentation or source code from the library it came from and reduces the amount of work required in order to reverse and understand symbol-stripped binaries by a considerable amount.
