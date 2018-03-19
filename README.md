@@ -32,4 +32,4 @@ Due to the fact that there are various libraries/versions to manage, it's a requ
 8. Contribute! This will only work if we work together
 
 ## Author
-Michael "Maktm" A.
+Michael Kiros
